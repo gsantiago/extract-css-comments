@@ -1,0 +1,28 @@
+{
+  "name": "extract-css-comments",
+  "version": "0.0.1",
+  "description": "Extract CSS comments from strings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsantiago/extract-css-comments"
+  },
+  "keywords": [
+    "css",
+    "comments",
+    "extract",
+    "docs",
+    "c",
+    "c-like"
+  ],
+  "author": "Guilherme Santiago",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "devDependencies": {
+    "ava": "^0.18.1"
+  }
+}
